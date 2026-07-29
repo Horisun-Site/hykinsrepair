@@ -10,6 +10,8 @@ const Navbar = () => {
     { name: "Home", path: "/" },
     { name: "About", path: "/about" },
     { name: "Book a Repair", path: "/book-repair" },
+    { name: "Professional Training", path: "/train" },
+
   ];
 
   const whatsappLink =

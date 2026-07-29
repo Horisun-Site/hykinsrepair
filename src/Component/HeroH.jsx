@@ -42,7 +42,8 @@ const HeroH = () => {
             }}
           >
             Screen replacements, battery repairs, charging port fixes, software
-            solutions and board-level repairs by experienced technicians.
+            solutions and board-level repairs by experienced technicians. and
+            we also offer professional training for aspiring mobile phone repair technicians.
           </motion.p>
 
           {/* Stats */}
@@ -58,6 +59,7 @@ const HeroH = () => {
             <span>✓ Same-Day Repairs</span>
             <span>✓ Free Diagnosis</span>
             <span>✓ 90-Day Warranty</span>
+            <span>✓ Training Sections</span>
           </motion.div>
 
           {/* Buttons */}

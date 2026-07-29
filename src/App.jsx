@@ -4,6 +4,7 @@ import Home from './Pages/Home'
 import About from './Pages/About'
 import BookRepair from './Pages/BookRepair'
 import ScrollToTop from './Component/ScrollToTop'
+import Training from './Pages/Training'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         <Route path="/" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>
         <Route path='/book-repair' element={<BookRepair/>}/>
+        <Route path='/train' element={<Training/>}/>
       </Routes>
     </Router>
   )
