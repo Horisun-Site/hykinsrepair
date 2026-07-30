@@ -46,6 +46,13 @@ const Footer = () => {
               >
                 Book a Repair
               </Link>
+
+              <Link
+                to="/train"
+                className="text-gray-400 transition hover:text-yellow-400"
+              >
+                Professional Training
+              </Link>
             </div>
           </div>
 
